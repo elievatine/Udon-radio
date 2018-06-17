@@ -1,5 +1,7 @@
 # UdonRadio :computer: :radio:
 
+Projet from UdonRadio, personnal repo to try few different things
+
 ## About
 The project is split in 3 main parts:
 - `back` contains the Django project. It is responsible for handling REST requests from the website, processing media files, and feeding Liquidsoap with informations on what tracks to play, and when.
